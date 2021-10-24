@@ -1,0 +1,16 @@
+F:\Joao\Downloads\DIO - BootCamp - FullStack Take Blip\Projetos\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+F:\Joao\Downloads\DIO - BootCamp - FullStack Take Blip\Projetos\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+F:\Joao\Downloads\DIO - BootCamp - FullStack Take Blip\Projetos\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+F:\Joao\Downloads\DIO - BootCamp - FullStack Take Blip\Projetos\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+F:\Joao\Downloads\DIO - BootCamp - FullStack Take Blip\Projetos\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+F:\Joao\Downloads\DIO - BootCamp - FullStack Take Blip\Projetos\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+F:\Joao\Downloads\DIO - BootCamp - FullStack Take Blip\Projetos\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+F:\Joao\Downloads\DIO - BootCamp - FullStack Take Blip\Projetos\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+F:\Joao\Downloads\DIO - BootCamp - FullStack Take Blip\Projetos\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+F:\Joao\Downloads\DIO - BootCamp - FullStack Take Blip\Projetos\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+F:\Joao\Downloads\DIO - BootCamp - FullStack Take Blip\Projetos\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+F:\Joao\Downloads\DIO - BootCamp - FullStack Take Blip\Projetos\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+F:\Joao\Downloads\DIO - BootCamp - FullStack Take Blip\Projetos\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+F:\Joao\Downloads\DIO - BootCamp - FullStack Take Blip\Projetos\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+F:\Joao\Downloads\DIO - BootCamp - FullStack Take Blip\Projetos\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+F:\Joao\Downloads\DIO - BootCamp - FullStack Take Blip\Projetos\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
